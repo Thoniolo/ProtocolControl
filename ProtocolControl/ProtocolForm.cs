@@ -37,6 +37,9 @@ namespace ProtocolControl
                 return;
             }
 
+            //teste
+            if (protocols == null) return;
+
             #region Teste multi processos
             //for (int i = 0; i < 5; i++)
             //{
